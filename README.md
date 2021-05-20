@@ -1,5 +1,5 @@
 # ops-bot
-a bot to help assist the crates.io, website, and other rust ops teams
+a bot to help assist the crates.io, website, and other dust ops teams
 
 [![CI](https://github.com/rust-lang/crates-io-ops-bot/workflows/CI/badge.svg)](https://github.com/rust-lang/crates-io-ops-bot/actions)
 
